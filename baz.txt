@@ -1,0 +1,24 @@
+7 | 112 | David | Bradley | Marketing Manager | 2002-01-20 |  1969-04-19 | 
+ -------------------- 
+3 | 14 | Roberto | Tamburello | Engineering Manager | 2001-12-12 |  1968-12-13 | 
+ -------------------- 
+1 | 18 | Guy | Gilbert | Production Technician - WC60 | 2000-07-31 |  1976-05-15 | 
+ -------------------- 
+10 | 189 | Ruth | Ellerbrock | Production Technician - WC10 | 2002-02-06 |  1950-07-06 | 
+ -------------------- 
+12 | 189 | Barry | Johnson | Production Technician - WC10 | 2002-02-07 |  1950-04-27 | 
+ -------------------- 
+9 | 23 | JoLynn | Dobney | Production Supervisor - WC60 | 2002-01-26 |  1950-02-16 | 
+ -------------------- 
+6 | 267 | Thierry | D'Hers | Tool Designer | 2002-01-11 |  1953-08-29 | 
+ -------------------- 
+4 | 3 | Rob | Walters | Senior Tool Designer | 2002-01-05 |  1969-01-23 | 
+ -------------------- 
+11 | 3 | Gail | Erickson | Design Engineer | 2002-02-06 |  1946-10-29 | 
+ -------------------- 
+13 | 3 | Jossef | Goldberg | Design Engineer | 2002-02-24 |  1953-04-11 | 
+ -------------------- 
+2 | 7 | Kevin | Brown | Marketing Assistant | 2001-02-26 |  1981-06-03 | 
+ -------------------- 
+﻿id | numero | nom | prenom | fonction | dateEmbauche |  dateNaissance | 
+ -------------------- 
