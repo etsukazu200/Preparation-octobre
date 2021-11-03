@@ -13,6 +13,8 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.Scanner;
 
+import com.google.gson.Gson;
+
 
 public class Principefileread  {
 	
@@ -61,8 +63,10 @@ public class Principefileread  {
         	System.out.println(element.getNom());
          }
          
+         String json = new Gson().toJson(list ).replace("},","},\n");
+         fs.write(json);
+         fs.flush();
          fs.close();
-         
         // Employe[] array = new Employe[list.size()];
         // for(int i1 = 0; i1 < list.size(); i1++) {
           //   array[i1] = list.get(i1);
